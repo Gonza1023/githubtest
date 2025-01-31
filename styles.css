@@ -9,7 +9,7 @@
 
 body{
     margin: 0 auto;
-    max-width: 250px;
+    max-width: 1200px;
     font-family: 'Lato';
     color: #333;
 }
@@ -189,14 +189,4 @@ header{
     color: #fff;
     padding: 15px 10px;
     cursor: pointer;
-}
-
-.cart-empty{
-    padding: 20px;
-    text-align: center;
-}
-
-
-.hidden{
-    display: none;
 }
